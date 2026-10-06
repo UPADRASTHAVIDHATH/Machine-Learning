@@ -33,6 +33,12 @@ This repository implements advanced machine learning techniques to tackle severe
   - Mathematical optimization with custom Gradient Descent implementations.
   - Comprehensive transactional and financial fraud datasets in `data/`.
 
+### 3. `PLACEMENT PREDICTION`
+- **Campus Placement Analytics & Predictive Classification**:
+  - `data/`: Student academic metrics, CGPA tiering, test/train splits (`placement_predict_50k`, `DT_Placement.csv`, `titanic.csv`).
+  - `notebooks/`: Comprehensive pipeline covering EDA, Logistic Regression, CGPA Tier Multinomial Classification, Random Forest Bagging with OOB estimation, and Boosting.
+  - `requirement.txt`: Module package requirements.
+
 ---
 
 ## 🚀 Key Performance Indicators
